@@ -1,4 +1,4 @@
-![](https://github.com/humanai-foundation/RenAIssance/blob/main/RenAIssance_Transformer_OCR_Arsh_Khan/images/humanai.png)
+
 
 # <ins>Table of Contents
 
@@ -9,15 +9,12 @@
   * [Training the model](#training)
   * [Inference](#inference)
 * [Results](#results)
-* [Useful Links](#links)
-* [Acknowledgements](#acknowledgements)
-* [License](#license)
 
 ---
 
 # <ins>About the Project
 
-**This project aims to develop a hybrid end-to-end Transformer model capable of accurately recognizing text from non-standard Spanish printed sources from the 16th and 17th centuries. It was developed as part of the Google Summer of Code (GSoC) initiative.**
+**This project aims to develop a hybrid end-to-end Transformer model capable of accurately recognizing text from non-standard Spanish printed sources from the 16th and 17th centuries.**
 
 ---
 # <ins> Printing Irregularities
@@ -169,28 +166,3 @@ The TrOCR model demonstrates significant improvements in OCR performance, especi
 
 - **Character Error Rate (CER):** 0.03 (97% accuracy)
 - **Word Error Rate (WER):** 0.07 (93% accuracy)
-
---- 
-## <ins>Useful Links
-
-For more comprehensive details about the project and documentation, you can explore the following links:
-
-- **Blog** : [Arsh Khan Transformer OCR Blog](https://medium.com/@khanarsh0124/gsoc-2024-with-humanai-text-recognition-with-transformer-models-de86522cdc17)
-
-- **Google Summer of Code (GSoC) 2024 Project**:   
-  [GSoC 2024 Project](https://summerofcode.withgoogle.com/programs/2024/projects/qnIVjbSY)
-
-- **HumanAI Foundation**:[HumanAI Projects](https://humanai.foundation/activities/gsoc2024.html)
-
-Contributions to this project are welcome. If you are interested in contributing, please fork the repository and submit a pull request. Ensure that your code follows the style and conventions used in this repository.
-
----
-
-## <ins>Acknowledgements
-
-This project was developed as part of the **Google Summer of Code (GSoC)** initiative, with support from the **HumanAI Foundation** and contributions from the open-source community.
-
----
-## License
-
-This project is licensed under the MIT License. See the [MIT Licence](https://github.com/humanai-foundation/RenAIssance/blob/main/RenAIssance_Transformer_OCR_Arsh_Khan/LICENCE)
